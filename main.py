@@ -454,7 +454,7 @@ def main(X, cu_y):
 
     print(results_df)
 
-
+#s
 if __name__ == '__main__':
     CovidData = pd.read_csv('dataset.csv')
     y1 = CovidData[['Height','Salary']]
