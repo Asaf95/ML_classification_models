@@ -456,13 +456,9 @@ def main(X, cu_y):
 
 
 if __name__ == '__main__':
-    CovidData = pd.read_csv('COVID-19_Daily_Testing_-_By_Test.csv')
-    y1 = CovidData['Positive Tests']
-    y2 = CovidData['Not Positive Tests']
+    CovidData = pd.read_csv('dataset.csv')
+    y1 = CovidData[['Height','Salary']]
+    y2 = CovidData['Purchased']
     X = CovidData.iloc[:, 5:22]
     X = X.dropna(axis='columns') # Drop the columns where all elements are missing
-    y = y1
-    main(X, y1)
-    print('------')
-    y = y2
     main(X, y2)
