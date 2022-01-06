@@ -151,23 +151,12 @@ Using a function learned in class to show the graphs of all the models
 
 the plots are:
 
-<img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\K_NN.png" title="K_nn" width="500.4"/>
-<br> </br>
-
-<img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\log_re.png" title="Log_r" width="500.4"/>
-<br> </br>
-
-<img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_G.png" title="SVC_G" width="500.4"/>
-<br> </br>
-
-<img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_L.png" title="SVC_L" width="500.4"/>
-<br> </br>
-
-<img src="[url=http://www.up2me.co.il/v.php?file=41789189.png][img]http://www.up2me.co.il/thumbs/41789189.png[/img][/url]" width="100" height="100">
-
-<img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_P.png" title="SVC_P" width="500.4"/>
-<br> </br>
-
 ![](graph/K_NN.png)
 
- graph/K_NN.png
+![](graph/SVC_G.png)
+
+ ![](graph/SVC_L.png)
+ 
+ ![](graph/SVC_P.png)
+
+![](graph/log_re.png)
