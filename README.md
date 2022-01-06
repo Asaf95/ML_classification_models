@@ -167,5 +167,7 @@ the plots are:
 
 <img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_P.png" title="SVC_P" width="500.4"/>
 <br> </br>
-![K_NN](graph/K_NN.png)
+
+![](graph/K_NN.png)
+
  graph/K_NN.png
