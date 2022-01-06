@@ -163,7 +163,7 @@ the plots are:
 <img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_L.png" title="SVC_L" width="500.4"/>
 <br> </br>
 
-<img src="http://www.up2me.co.il/v.php?file=41789189.png" width="100" height="100">
+<img src="[url=http://www.up2me.co.il/v.php?file=41789189.png][img]http://www.up2me.co.il/thumbs/41789189.png[/img][/url]" width="100" height="100">
 
 <img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_P.png" title="SVC_P" width="500.4"/>
 <br> </br>
