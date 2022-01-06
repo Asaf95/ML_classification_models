@@ -81,13 +81,20 @@ When reached the 1000 run the function will return the mean and the std (*1)  of
 
 After going through the 1000 runs for all the models the results will be used to one DataFrame and print it to the user.
 
+the function sorts the best mean (list with more than one column) and return it to the function.<br>
+statistic measures |    k_nn_result | log_re_result | svc_l_result | svc_g_result | svc_p_result <br>
+mean__________               |  0.91190300     |  0.818174000   |  0.82387100    |  0.916804000  |    0.914802 <br>
+std____________                |  0.01249500     |  0.014740000    |  0.01476500 |     0.011327000 |      0.011442  <br>
+
+
         df = pd.concat([k_nn_result, log_re_result, svc_l_result, svc_g_result, svc_p_result], axis=1,
                        keys=['k_nn_result', 'log_re_result', 'svc_l_result', 'svc_g_result', 'svc_p_result'], sort=True)
         print(df)
 
 *1: for creating that mean and the std it will be by using the function bestr(), that function gets the list<dr>
 convert it to DataFrame and use agg for calculating the mean and the str.
-the function sorts the best mean (list with more than one column) and return it to the function. 
+<br>
+
 
 
 
