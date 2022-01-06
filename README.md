@@ -167,4 +167,5 @@ the plots are:
 
 <img height="300" src="C:\Users\asaf\PycharmProjects\task5\graph\SVC_P.png" title="SVC_P" width="500.4"/>
 <br> </br>
-![K_NN](https://user-images.githubusercontent.com/71070915/148409250-79000c27-338f-4369-a94f-817016b8a6bb.png)
+![K_NN](https://github.com/Asaf95/task5/blob/main/graph/K_NN.png)
+ graph/K_NN.png
